@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+See the website [here](https://jamiejamesjamie.github.io/first-jekyll-website/)!
+
 You can use the [editor on GitHub](https://github.com/JamieJamesJamie/first-jekyll-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
